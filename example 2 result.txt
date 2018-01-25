@@ -1,0 +1,1 @@
+[{'company_name': 'ДУКЛА', 'company_code': '31614742', 'address_list': [{'region': None, 'settlement_type': 'city', 'settlement': 'ДНІПРО', 'street_type': 'avenue', 'street': 'ПУШКІНА', 'house_num': '4'}]}]
